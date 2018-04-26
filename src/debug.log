@@ -1,0 +1,151 @@
+2018-04-18.05:36:11 - Shutdown : In progress...
+2018-04-18.05:36:11 - StopNode()
+2018-04-18.05:36:11 - Shutdown : done
+2018-04-18.05:36:11 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-04-18.05:36:11 - Rel version v1.0.0.0 ()
+2018-04-18.05:36:11 - Using OpenSSL version OpenSSL 1.0.2g  1 Mar 2016
+2018-04-18.05:36:11 - Startup time: 04/18/18 09:36:11
+2018-04-18.05:36:11 - Default data directory /root/.RelMN
+2018-04-18.05:36:11 - Used data directory 
+2018-04-18.05:36:11 - init message: Verifying database integrity...
+2018-04-18.05:36:11 - dbenv.open LogDir=database ErrorFile=db.log
+2018-04-18.05:36:11 - Unable to bind to [::]:32390 on this computer. Rel is probably already running.
+2018-04-18.05:36:11 - Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-18.05:36:11 - : Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-18.05:36:11 - : Failed to listen on any port. Use -listen=0 if you want this.
+2018-04-18.05:36:11 - Shutdown : In progress...
+2018-04-18.05:36:11 - StopNode()
+2018-04-18.05:36:11 - Shutdown : done
+2018-04-18.14:49:32 - Shutdown : In progress...
+2018-04-18.14:49:32 - StopNode()
+2018-04-18.14:49:32 - Shutdown : done
+2018-04-18.14:49:32 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-04-18.14:49:32 - Rel version v1.0.0.0 ()
+2018-04-18.14:49:32 - Using OpenSSL version OpenSSL 1.0.2g  1 Mar 2016
+2018-04-18.14:49:32 - Startup time: 04/18/18 18:49:32
+2018-04-18.14:49:32 - Default data directory /root/.RelMN
+2018-04-18.14:49:32 - Used data directory 
+2018-04-18.14:49:32 - init message: Verifying database integrity...
+2018-04-18.14:49:32 - dbenv.open LogDir=database ErrorFile=db.log
+2018-04-18.14:49:32 - Unable to bind to [::]:32390 on this computer. Rel is probably already running.
+2018-04-18.14:49:32 - Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-18.14:49:32 - : Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-18.14:49:32 - : Failed to listen on any port. Use -listen=0 if you want this.
+2018-04-18.14:49:32 - Shutdown : In progress...
+2018-04-18.14:49:32 - StopNode()
+2018-04-18.14:49:32 - Shutdown : done
+2018-04-20.03:09:49 - Shutdown : In progress...
+2018-04-20.03:09:49 - StopNode()
+2018-04-20.03:09:49 - Shutdown : done
+2018-04-20.03:09:49 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-04-20.03:09:49 - Rel version v1.0.0.0 ()
+2018-04-20.03:09:49 - Using OpenSSL version OpenSSL 1.0.2g  1 Mar 2016
+2018-04-20.03:09:49 - Startup time: 04/20/18 07:09:49
+2018-04-20.03:09:49 - Default data directory /root/.RelMN
+2018-04-20.03:09:49 - Used data directory 
+2018-04-20.03:09:49 - init message: Verifying database integrity...
+2018-04-20.03:09:49 - dbenv.open LogDir=database ErrorFile=db.log
+2018-04-20.03:09:49 - Unable to bind to [::]:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:49 - Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:49 - : Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:49 - : Failed to listen on any port. Use -listen=0 if you want this.
+2018-04-20.03:09:49 - Shutdown : In progress...
+2018-04-20.03:09:49 - StopNode()
+2018-04-20.03:09:49 - Shutdown : done
+2018-04-20.03:09:51 - Shutdown : In progress...
+2018-04-20.03:09:51 - StopNode()
+2018-04-20.03:09:51 - Shutdown : done
+2018-04-20.03:09:51 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-04-20.03:09:51 - Rel version v1.0.0.0 ()
+2018-04-20.03:09:51 - Using OpenSSL version OpenSSL 1.0.2g  1 Mar 2016
+2018-04-20.03:09:51 - Startup time: 04/20/18 07:09:51
+2018-04-20.03:09:51 - Default data directory /root/.RelMN
+2018-04-20.03:09:51 - Used data directory 
+2018-04-20.03:09:51 - init message: Verifying database integrity...
+2018-04-20.03:09:51 - dbenv.open LogDir=database ErrorFile=db.log
+2018-04-20.03:09:51 - Unable to bind to [::]:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:51 - Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:51 - : Unable to bind to 0.0.0.0:32390 on this computer. Rel is probably already running.
+2018-04-20.03:09:51 - : Failed to listen on any port. Use -listen=0 if you want this.
+2018-04-20.03:09:51 - Shutdown : In progress...
+2018-04-20.03:09:51 - StopNode()
+2018-04-20.03:09:51 - Shutdown : done
+2018-04-23.10:55:29 - Shutdown : In progress...
+2018-04-23.10:55:29 - StopNode()
+2018-04-23.10:55:29 - Shutdown : done

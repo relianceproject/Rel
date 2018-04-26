@@ -1,0 +1,32 @@
+obj/main.o: main.cpp alert.h serialize.h allocators.h version.h \
+ clientversion.h chainparams.h bignum.h uint256.h util.h tinyformat.h \
+ checkpoints.h net.h mruset.h netbase.h compat.h protocol.h addrman.h \
+ sync.h threadsafety.h timedata.h hash.h core.h script.h keystore.h key.h \
+ stealth.h db.h init.h wallet.h walletdb.h crypter.h main.h txmempool.h \
+ hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h \
+ sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h \
+ sph_simd.h sph_echo.h ui_interface.h kernel.h txdb.h txdb-leveldb.h \
+ /root/rel21/src/leveldb/include/leveldb/db.h \
+ /root/rel21/src/leveldb/include/leveldb/iterator.h \
+ /root/rel21/src/leveldb/include/leveldb/slice.h \
+ /root/rel21/src/leveldb/include/leveldb/status.h \
+ /root/rel21/src/leveldb/include/leveldb/options.h \
+ /root/rel21/src/leveldb/include/leveldb/write_batch.h instantx.h \
+ base58.h darksend.h masternode.h activemasternode.h spork.h smessage.h \
+ lz4/lz4.h
+main.cpp alert.h serialize.h allocators.h version.h :
+ clientversion.h chainparams.h bignum.h uint256.h util.h tinyformat.h :
+ checkpoints.h net.h mruset.h netbase.h compat.h protocol.h addrman.h :
+ sync.h threadsafety.h timedata.h hash.h core.h script.h keystore.h key.h :
+ stealth.h db.h init.h wallet.h walletdb.h crypter.h main.h txmempool.h :
+ hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h :
+ sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h :
+ sph_simd.h sph_echo.h ui_interface.h kernel.h txdb.h txdb-leveldb.h :
+ /root/rel21/src/leveldb/include/leveldb/db.h :
+ /root/rel21/src/leveldb/include/leveldb/iterator.h :
+ /root/rel21/src/leveldb/include/leveldb/slice.h :
+ /root/rel21/src/leveldb/include/leveldb/status.h :
+ /root/rel21/src/leveldb/include/leveldb/options.h :
+ /root/rel21/src/leveldb/include/leveldb/write_batch.h instantx.h :
+ base58.h darksend.h masternode.h activemasternode.h spork.h smessage.h :
+ lz4/lz4.h :

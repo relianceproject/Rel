@@ -1,0 +1,8 @@
+
+Rel.app
+Makefile
+*.o
+*.mk
+src/qt/res/icons/Thumbs.db
+qrc_bitcoin.cpp
+*.qm

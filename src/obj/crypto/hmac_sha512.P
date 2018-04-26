@@ -1,0 +1,4 @@
+obj/crypto/hmac_sha512.o: crypto/hmac_sha512.cpp \
+ /root/re1/src/crypto/hmac_sha512.h /root/re1/src/crypto/sha512.h
+crypto/hmac_sha512.cpp :
+ /root/re1/src/crypto/hmac_sha512.h /root/re1/src/crypto/sha512.h :

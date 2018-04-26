@@ -1,0 +1,18 @@
+obj/darksend.o: darksend.cpp darksend.h main.h core.h uint256.h \
+ serialize.h allocators.h version.h clientversion.h util.h tinyformat.h \
+ script.h keystore.h key.h hash.h sync.h threadsafety.h bignum.h \
+ stealth.h txmempool.h net.h mruset.h netbase.h compat.h protocol.h \
+ chainparams.h addrman.h timedata.h hashblock.h sph_blake.h sph_types.h \
+ sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h sph_skein.h sph_luffa.h \
+ sph_cubehash.h sph_shavite.h sph_simd.h sph_echo.h masternode.h base58.h \
+ activemasternode.h init.h wallet.h walletdb.h db.h crypter.h \
+ ui_interface.h instantx.h
+darksend.cpp darksend.h main.h core.h uint256.h :
+ serialize.h allocators.h version.h clientversion.h util.h tinyformat.h :
+ script.h keystore.h key.h hash.h sync.h threadsafety.h bignum.h :
+ stealth.h txmempool.h net.h mruset.h netbase.h compat.h protocol.h :
+ chainparams.h addrman.h timedata.h hashblock.h sph_blake.h sph_types.h :
+ sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h sph_skein.h sph_luffa.h :
+ sph_cubehash.h sph_shavite.h sph_simd.h sph_echo.h masternode.h base58.h :
+ activemasternode.h init.h wallet.h walletdb.h db.h crypter.h :
+ ui_interface.h instantx.h :

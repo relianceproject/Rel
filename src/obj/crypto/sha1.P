@@ -1,0 +1,4 @@
+obj/crypto/sha1.o: crypto/sha1.cpp /root/re1/src/crypto/sha1.h \
+ /root/re1/src/crypto/common.h
+crypto/sha1.cpp /root/re1/src/crypto/sha1.h :
+ /root/re1/src/crypto/common.h :
