@@ -88,9 +88,21 @@ public:
         assert(hashGenesisBlock == uint256("0x504cacf298818d064a85d5cd0b724524db0a58d56c9b3cf83f4c8ab306ce75a4"));
         assert(genesis.hashMerkleRoot == uint256("0xdb9420fb5614bf083e367a715fc23e3fcf8cb467de849626412268c835584d10"));
 
-        vSeeds.push_back(CDNSSeedData("n0", "23.95.214.48:22222"));
-        vSeeds.push_back(CDNSSeedData("n1", "23.95.214.48:44444"));
-        vSeeds.push_back(CDNSSeedData("n2", "107.172.205.232:42310"));
+vSeeds.push_back(CDNSSeedData("n0", "23.95.214.48:22222"));
+vSeeds.push_back(CDNSSeedData("n1", "23.95.214.48:44444"));
+vSeeds.push_back(CDNSSeedData("n3", "209.250.235.27:43214"));
+vSeeds.push_back(CDNSSeedData("n4", "209.250.235.27:43211"));
+vSeeds.push_back(CDNSSeedData("n5", "209.250.235.27:43210"));
+vSeeds.push_back(CDNSSeedData("n6", "213.32.21.60:43210"));
+vSeeds.push_back(CDNSSeedData("n7", "213.32.21.60:43212"));
+vSeeds.push_back(CDNSSeedData("n8", "140.82.57.203:43212"));
+vSeeds.push_back(CDNSSeedData("n9", "140.82.57.203:43214"));
+vSeeds.push_back(CDNSSeedData("n10", "213.32.21.60:43220"));
+vSeeds.push_back(CDNSSeedData("n11", "213.32.21.60:43240"));
+vSeeds.push_back(CDNSSeedData("n12", "51.38.69.39:43210"));
+vSeeds.push_back(CDNSSeedData("n13", "51.38.69.39:43220"));
+vSeeds.push_back(CDNSSeedData("n14", "140.82.57.203:43210"));
+
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 60);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 58);
